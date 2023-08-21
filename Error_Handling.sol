@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract Contest {
+contract Erro_Handling {
     uint public totalContributors;
     mapping(address => bool) public hasContributed;
 
